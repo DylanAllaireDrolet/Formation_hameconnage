@@ -4,7 +4,7 @@
 
 ### _Introduction (5 minutes)_
 
-* #### Présentation participants
+* #### Présentation des participants
 
 * #### Objectif de la formation
 

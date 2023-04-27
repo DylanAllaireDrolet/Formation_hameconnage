@@ -12,7 +12,7 @@
 
 1. #### Techniques utilisées pour l'hameçonnage
 
-2. #### Comment les attaquants obtiennent-ils des infromations sensibles?
+2. #### Comment les attaquants obtiennent-ils des informations sensibles?
 
 ### Types d'hameçonnage
 
