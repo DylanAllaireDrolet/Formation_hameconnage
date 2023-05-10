@@ -16,23 +16,21 @@
 
 ### Types d'hameçonnage
 
-#### Exemples d'attaque d'hameçonnage
+* Exemples d'attaque d'hameçonnage
 
-#### Moyens utilisées
+* Moyens utilisés
 
-##### 1. E-mail
-
-##### 2. Réseaux sociaux
-
-##### 3. Téléphone
+  1. E-mail
+  2. Réseaux sociaux
+  3. Téléphone
 
 ### Comment se protéger contre l'hameçonnage?
 
-1. #### Identifiter un attaque d'hameçonnage
+1. #### Identifier une attaque d'hameçonnage
 
 2. #### Bonnes pratiques pour éviter l'hameçonnage
 
-3. #### Quoi faire lorsque on est victime d'hameçonnage
+3. #### Que faire lorsqu'on est victime d'hameçonnage
 
 ### Conclusion
 

@@ -2,44 +2,33 @@
 
 ## Ordre du jour
 
-### _Introduction (5 minutes)_
+### Introduction (5 minutes)
 
-* #### Présentation des participants
+* Présentation des participants
+* Objectif de la formation
+* Définition de l'hameçonnage, son importance en matière de sécurité et comparaison avec d'autres techniques de piratage
 
-* #### Objectif de la formation
+### Comment fonctionne l'hameçonnage (5 minutes)
 
-* #### Définition de l'hameçonnage + importance en matière de sécurité + comparaison
+* Présentation des techniques utilisées pour l'hameçonnage
+* Exemple de cas d'hameçonnage
+* Comment les attaquants obtiennent-ils des informations sensibles?
 
-### _Comment fonctione l'hameçonnage (5 minutes)_
+### Types d'hameçonnage (5 minutes)
 
-* #### Présentation des techniques
+* Hameçonnage par e-mail
+* Hameçonnage sur les réseaux sociaux
+* Hameçonnage par téléphone
+* Explication des différents scénarios d'hameçonnage, y compris les cas d'urgence
 
-* #### Exemeple de cas d'hameçonnage
+### Comment se protéger contre les attaques d'hameçonnage (5 - 10 minutes)
 
-* #### Comment les attaquants obtiennent-ils des infromations sensibles?
+* Comment identifier un courriel d'hameçonnage
+* Bonnes pratiques pour éviter l'hameçonnage
+* Que faire en cas de victime d'hameçonnage
+* Échange des expériences des participants et discussion sur les mesures qu'ils peuvent mettre en place pour se protéger et protéger l'entreprise
 
-### _Types d'hameçonnage (5 minutes)_
+### Conclusion (5 - 10 minutes)
 
-* #### E-mail
-
-* #### Réseaux sociaux
-
-* #### Téléphone
-
-* #### Explication sur les différents scénarios (urgence etc)
-
-### _Comment se protéger contre les attaques d'hameçonnage (5 - 10 mintues)_
-
-* #### Comment idenftifier courriel hameçonnage
-
-* #### Bonnes pratiques pour éviter l'hameçonnage
-
-* #### Quoi faire lorsqu'on est victime
-
-* #### Échanges des expériences des participants et sur les mesures qu'ils peuvent mettre en place pour se protéger et proéger l'entreprise
-
-### _Conclusion (5 - 10 minutes)_
-
-* #### Résumé des points clés
-
-* #### Petit test sur des courriels d'hameçonnage
+* Résumé des points clés
+* Petit test sur des courriels d'hameçonnage pour évaluer la compréhension des participants
